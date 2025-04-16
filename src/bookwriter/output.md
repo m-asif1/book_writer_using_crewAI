@@ -1,6 +1,6 @@
 The Era of Artificial Intelligence: A Beginner's Guide
 
-*(by John Doe)*
+*(by Asif)*
 
 **Target Audience:** Beginners with no prior knowledge of Artificial Intelligence
 **Writing Style:** Conversational and easy to understand
