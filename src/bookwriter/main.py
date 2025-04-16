@@ -24,7 +24,7 @@ model = LLM(model="gemini/gemini-2.0-flash-exp" ,api_key=api_key)
 word_count = 2000
 Book_Title = "The era of artificial intelligence"
 Writing_Style = "Conversational"
-Author_Name = "John Doe"
+Author_Name = "Asif"
 Target_Audience = "Beginners"
 
 
