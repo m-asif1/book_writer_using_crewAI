@@ -1,0 +1,23 @@
+[project]
+name = "bookwriter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "masiff346@gmail.com", email = "76251742+m-asif1@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "crewai>=0.114.0",
+    "crewai-tools>=0.40.1",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+bookwriter = "bookwriter:main"
+
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
